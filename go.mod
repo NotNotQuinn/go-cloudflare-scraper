@@ -1,4 +1,4 @@
-module github.com/VTGare/go-cloudflare-scraper
+module github.com/NotNotQuinn/go-cloudflare-scraper
 
 go 1.15
 
