@@ -1,9 +1,8 @@
-module github.com/NotNotQuinn/go-cloudflare-scraper
+module github.com/notnotquinn/go-cloudflare-scraper
 
-go 1.15
+go 1.16
 
 require (
-	github.com/cardigann/go-cloudflare-scraper v0.0.0-20200425223932-91bd9b1006f2
-	github.com/robertkrimen/otto v0.0.0-20200922221731-ef014fd054ac
+	github.com/robertkrimen/otto v0.0.0-20210614181706-373ff5438452
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 )
